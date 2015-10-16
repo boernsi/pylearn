@@ -10,5 +10,5 @@ auszug = date(2016, 1, 1)
 
 countdown = auszug - heute
 
-print(countdown, ' Tage')
+print('Es sind nur noch ',countdown, ' Tage')
 
