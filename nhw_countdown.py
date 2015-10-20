@@ -2,6 +2,7 @@
 #
 # Author: Bernhard Humer
 # Ziel: zählt die Tage bis zum Auszug der Fam. NHW
+# TBD: englische Ausgabe von "Days" wegnehmen
 
 from datetime import date
 
